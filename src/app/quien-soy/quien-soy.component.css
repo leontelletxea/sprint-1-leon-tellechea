@@ -1,0 +1,14 @@
+.navbar-nav > li{
+    padding-left:50px;
+    padding-right:50px;
+  }
+
+img{
+    width: 10%;
+    border-radius: 5px;
+}
+
+.jumbotron{
+  margin-top: 10px;
+  margin-left: 5px;
+}
